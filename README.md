@@ -1,4 +1,4 @@
-- ## 👋 Hi, I’m Ashutosh
+- <h1><align='center'> 👋 Hi, I’m Ashutosh </h1>
 - **👀 I’m interested in Data Science**
 - **🌱 I’m currently learning Data analytics and machine learning models**
 - **🏫 I'm currently in the third year of pursuing B.Tech in Computer Science**
