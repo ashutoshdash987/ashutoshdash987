@@ -1,6 +1,6 @@
 <h1 align='center'> 👋 Hi, I’m Ashutosh </h1>
 <h3 align='center'> 🎯 I’m a Computer Science student </h3>
-<p>🌱 I’m currently learning Data analytics and machine learning models</p>
+<p>🌱 I’m currently learning Data analytics and machine learning</p>
 <p>🏫 I'm currently in the 4th year of pursuing B.Tech in Computer Science</p>
 <p> 
   <b>Skills i'm good at 👇</b> <br/>
