@@ -1,13 +1,18 @@
 <h1 align='center'> 👋 Hi, I’m Ashutosh </h1>
-<h3 align='center'> 🎯 I’m a Computer Science student </h3>
-<p>🌱 I’m currently learning Data analytics and machine learning</p>
-<p>🏫 I'm currently in the 4th year of pursuing B.Tech in Computer Science</p>
-<p> 
-  <b>Skills i'm good at 👇</b> <br/>
-  - python - numpy, pandas, matplotlib, scikit-learn, Tkinter(GUI), Django <br/>
-  - SQL <br/>
+<h3 align='center'> 💻 Software Engineer | Data & ML Enthusiast </h3>
+
+<p>🚀 Currently working as a <b>Software Engineer</b></p>
+<p>🌱 Actively learning <b>Data Analytics</b> and <b>Machine Learning</b></p>
+<p>🎯 Passionate about building data-driven and scalable applications</p>
+
+<p>
+  <b>Skills I’m good at 👇</b> <br/>
+  - Python (NumPy, Pandas, Matplotlib, Scikit-Learn) <br/>
+  - Tkinter (GUI Development) <br/>
+  - Django & Flask <br/>
+  - SQL & Database Management <br/>
   - Microsoft Power BI <br/>
-  - Data Analytics And Machine Learning Models<br/>
+  - Data Analytics & Machine Learning Models <br/>
 </p>
 <!---
 ashutoshdash987/ashutoshdash987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
